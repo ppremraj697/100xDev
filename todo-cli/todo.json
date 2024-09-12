@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "do": "Do Yoga",
+      "time": "Every Morning"
+    },
+    {
+      "do": "Do Study",
+      "time": "Everyday after office"
+    }
+  ]
+}
